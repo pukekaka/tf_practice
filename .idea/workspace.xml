@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1c6889e-d0dc-4140-bf16-588bff99ff10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/packt.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 1/Chapter1_NB.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 1/first_session.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 1/first_session_only_tensorflow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 1/programming_model.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 1/using_tensorboard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/Chapter2_NB.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/defining_tensors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/fractals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/gradient.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/handling_tensors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/handling_tensors_II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/handling_tensors_III.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/montecarlo_method.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/partial_differential_equation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 2/random_numbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 3/Chapter3_NB.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 3/KNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 3/Kmeans.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 3/Mnist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 3/input_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 3/linear_regression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 4/Chapter4_NB.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 4/input_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 4/logistic_regression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 4/mlp_classification.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 4/mlp_function_approximation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 5/Chapter5_NB.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 5/convolutional_network.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 5/input_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 5/ptb_word_lm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 5/reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_source/Getting Started with TensorFlow/Chapter 5/reader_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/cnn/cnn_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/cnn/input_data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d1c6889e-d0dc-4140-bf16-588bff99ff10" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -264,7 +227,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32535365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32535365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
