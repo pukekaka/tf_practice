@@ -41,6 +41,9 @@ __pycache__
 # JIRA plugin
 atlassian-ide-plugin.xml
 
+# data
+.data/
+
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
 crashlytics.properties
