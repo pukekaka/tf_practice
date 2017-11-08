@@ -4,7 +4,7 @@ import pytest
 
 import os
 import random
-from . Images import get_shuffled_images, time_offset_label, load_transform
+from Images import get_shuffled_images, time_offset_label, load_transform
 
 class OmniglotGenerator(object):
     """Docstring for OmniglotGenerator"""
@@ -23,6 +23,7 @@ class OmniglotGenerator(object):
                                   for family in os.listdir(self.data_folder) \
                                   if os.path.isdir(os.path.join(self.data_folder, family)) \
                                   for character in os.listdir(os.path.join(self.data_folder, family))]
+        self.character_folders = filter(lambda folder: os.path.isdir(folder), self.character_folders)
 
     def __iter__(self):
         return self

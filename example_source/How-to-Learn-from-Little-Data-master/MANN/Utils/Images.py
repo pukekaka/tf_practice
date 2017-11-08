@@ -5,8 +5,9 @@ import matplotlib.pyplot as plt
 import os
 import random
 
-from scipy.ndimage import rotate, shift
-from scipy.misc import imread, imresize
+from scipy.ndimage import rotate,shift
+from scipy.misc import imread,imresize
+
 
 def get_shuffled_images(paths, labels, nb_samples=None):
     if nb_samples is not None:
