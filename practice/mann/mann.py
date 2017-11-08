@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-# from model_helper import *
+from practice.mann.helper import generator as gn
 
 def omniglot():
 
@@ -17,6 +17,11 @@ def omniglot():
     batch_size = 16
     nb_samples_per_class = 10
 
-    generator = OmniglotGenerator(data_folder='./data/omniglot', batch_size=batch_size, nb_samples=nb_class,
-                                  nb_samples_per_class=nb_samples_per_class, max_rotation=0., max_shift=0.,
+    generator = gn.OmniglotGenerator(data_folder='./data/omniglot',
+                                  batch_size=batch_size,
+                                  nb_samples=nb_class,
+                                  nb_samples_per_class=nb_samples_per_class,
+                                  max_rotation=0.,
+                                  max_shift=0.,
                                   max_iter=None)
+
