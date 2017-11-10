@@ -53,13 +53,13 @@ class NTMCopyModel():
         # self.merged_summary = tf.summary.merge(self.copy_loss_summary)
 
 
+class MANN():
+    def __init__(self, values):
+        if values.label_type == 'one_hot':
+            values.output_dim = values.n_classes
 
-class NTMOneShotLearningModel():
-    def __init__(self, args):
-        if args.label_type == 'one_hot':
-            args.output_dim = args.n_classes
-        elif args.label_type == 'five_hot':
-            args.output_dim = 25
+        elif values.label_type == 'five_hot':
+            values.output_dim = 25
 
         self.x_image = tf.placeholder(dtype=tf.float32,
                                       shape=[args.batch_size, args.seq_length, args.image_width * args.image_height])
