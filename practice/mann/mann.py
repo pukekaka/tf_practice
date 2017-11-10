@@ -25,17 +25,18 @@ def omniglot():
                                   max_shift=0.,
                                   max_iter=None)
 
-    it = iter(generator)
-
-    f = open("test", 'w')
-    while True:
-        try:
-            e = next(it)
-            f.write(str(e))
-        except StopIteration:
-            break
-    f.close()
-    print('end')
+    # it = iter(generator)
+    #
+    # f = open("test", 'w')
+    # while True:
+    #     try:
+    #         e = next(it)
+    #         f.write(str(e))
+    #     except StopIteration:
+    #         break
+    # f.close()
+    # print('end')
+    print (generator)
 
 if __name__ == '__main__':
     omniglot()
