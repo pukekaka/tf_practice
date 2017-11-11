@@ -1,9 +1,9 @@
-import tensorflow as tf
-import numpy as np
 import argparse
 from practice.rnn.util.model import NTMCopyModel
-from practice.rnn.util.utils import generate_random_strings
-import matplotlib.pyplot as plt
+import argparse
+
+from practice.rnn.util.model import NTMCopyModel
+
 
 def main():
     parser = argparse.ArgumentParser()
